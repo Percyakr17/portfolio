@@ -16,7 +16,7 @@ This is the forfolio webpage of my resume for mu information.
 ->.  git add "file name "  - to add a file i repo .
 ->.  git add .  - for save all file ready for commit.
 ->.  git commit -m "some message for file change".  - includes commit and show the changed done in the file or in repo.
-->.  git push main origin  - for pushing the local machine saved or commited file to the remote or github server.
+->.  git push origin main   - for pushing the local machine saved or commited file to the remote or github server.
 )))))))))))))))
 
 
